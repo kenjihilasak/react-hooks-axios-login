@@ -38,6 +38,6 @@
   },
   "devDependencies": {
     "ed-grid": "^2.9.0",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   }
 }
